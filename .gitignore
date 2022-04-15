@@ -1,0 +1,11 @@
+# onnxfile
+*.onnx
+
+# local run.sh
+local_run.sh
+
+# exe file
+yolov4
+
+# result images
+Predictions.jpg
